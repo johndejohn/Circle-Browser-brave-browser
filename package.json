@@ -1,7 +1,7 @@
 {
-  "name": "brave",
+  "name": "Bravo",
   "version": "0.58.1",
-  "description": "Next generation Brave browser for macOS, Windows, Linux, and eventually Android",
+  "description": "Next generation Bravo browser for macOS, Windows, Linux, and eventually Android",
   "scripts": {
     "cibuild": "node ./scripts/commands.js cibuild",
     "init": "node ./scripts/sync.js --init",
@@ -52,7 +52,7 @@
     "url": "git+https://github.com/brave/brave-browser.git"
   },
   "author": {
-    "name": "Brave Software <support@brave.com>"
+    "name": "UL Science <info@ulsci.co>"
   },
   "contributors": [
     {
