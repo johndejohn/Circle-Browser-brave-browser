@@ -1,4 +1,4 @@
-# Brave Browser
+# Bravo Browser
 
 
 ## Overview 
@@ -23,7 +23,7 @@ This repository holds the build tools needed to build the Brave desktop browser 
     
 ## Build instructions
 
-See the [Brave Wiki](https://github.com/brave/brave-browser/wiki).
+See the [Bravo Wiki](https://github.com/brave/bravo-browser/wiki).
 
 ## Downloads
 
